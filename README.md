@@ -1,7 +1,12 @@
 # ECE387_App_Android
+Course: ECE387
+Name: Hung Do
 
+Purpose:
 Android Simple App using Android Studio
 Including user interface and user input.
+
+Video demo: https://youtu.be/jzFLX7MLrjI
 ----------------------------------------
 Guide to run the two files
 - Install Android Studio
@@ -12,3 +17,8 @@ Guide to run the two files
 
 - Install Android Device to run the code
 - Run -> Run App
+
+To run on an Android Device without connecting to the Android Studio
+- Build -> Build APK
+- [namefile].apk 
+
